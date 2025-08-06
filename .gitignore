@@ -1,0 +1,28 @@
+# API Keys and Secrets
+*.env
+.env*
+!.env.example
+
+# Configuration files with secrets
+/lib/config/api_keys.dart
+/lib/config/secrets.dart
+
+# Firebase config with secrets
+/firebase/functions/.env
+/firebase/functions/config.json
+
+# Build files that might contain secrets
+/build/
+/.dart_tool/
+
+# IDE files that might contain sensitive data
+.vscode/settings.json
+.idea/
+
+# Logs that might contain sensitive information
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
