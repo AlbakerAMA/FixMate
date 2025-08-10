@@ -29,7 +29,7 @@
 | Component  | Technology       |
 |------------|------------------|
 | Frontend   | Flutter (Dart)   |
-| Backend    | Firebase (optional) |
+| Backend    | Firebase  |
 | Package Manager | pub.dev    |
 | Testing    | Flutter Test     |
 
