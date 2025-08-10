@@ -1,6 +1,6 @@
 # FixMate
 
-**FixMate** is a Flutter-based cross-platform application (Android, iOS, Web) designed to help users [brief description—e.g., organize tasks, manage repairs, log activities, etc.].
+**FixMate** is a Flutter-based cross-platform application (Android, iOS, Web) designed to help efficiently manage and store customer data using Firebase for secure and real-time cloud storage integrated a chatbot feature that helps identify machine issues by entering the machine code.
 
 ---
 
@@ -39,9 +39,9 @@
 
 ### Prerequisites
 
-- Flutter SDK (compatible with your project’s Flutter version)  
+- Flutter SDK   
 - Dart SDK  
-- Firebase project and config files *(if you're using Firebase)*  
+- Firebase project and config files  
 - Emulator or physical device for testing
 
 ### Installation
